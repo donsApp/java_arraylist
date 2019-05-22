@@ -25,6 +25,7 @@ public class MyArrayList {
         num.add(5);
         num.add(15);
         num.add(25); //Added later
+        num.add(30);
         
         Collections.sort(num, Collections.reverseOrder());
         
